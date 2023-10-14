@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "StickerSmash",
+  "short_name": "StickerSmash",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.davimusic.StickerSmash",
+      "id": "com.davimusic.StickerSmash"
+    }
+  ],
+  "prefer_related_applications": true
+}

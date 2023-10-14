@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.cddbcc82.js",
+    "static/js/950.3023c52b.js": "/static/js/950.3023c52b.js",
+    "static/media/Montserrat.ttf": "/static/media/Montserrat.7e687123cd4528224ce5.ttf",
+    "static/media/Playfair2.ttf": "/static/media/Playfair2.20240034b80f50c3ad00.ttf",
+    "static/media/NotoSansNKoUnjoined-SemiBold.ttf": "/static/media/NotoSansNKoUnjoined-SemiBold.7c46e5ae8a6341e198b6.ttf",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.cddbcc82.js.map": "/static/js/main.cddbcc82.js.map",
+    "950.3023c52b.js.map": "/static/js/950.3023c52b.js.map"
+  },
+  "entrypoints": [
+    "static/js/950.3023c52b.js",
+    "static/js/main.cddbcc82.js"
+  ]
+}
